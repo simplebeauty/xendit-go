@@ -31,7 +31,7 @@ type Invoice struct {
 	CreditCardChargeID        string                `json:"credit_card_charge_id,omitempty"`
 	Currency                  string                `json:"currency,omitempty"`
 	InitialCurrency           string                `json:"initial_currency,omitempty"`
-	InitialAmount             string                `json:"initial_amount,omitempty"`
+	//InitialAmount             string                `json:"initial_amount,omitempty"`
 	PaidAt                    *time.Time            `json:"paid_at,omitempty"`
 	MidLabel                  string                `json:"mid_label,omitempty"`
 	PaymentChannel            string                `json:"payment_channel,omitempty"`
