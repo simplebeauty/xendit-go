@@ -1,4 +1,4 @@
-module github.com/xendit/xendit-go
+module github.com/simplebeauty/xendit-go
 
 go 1.13
 

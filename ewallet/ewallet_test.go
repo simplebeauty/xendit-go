@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/utils/validator"
+	"github.com/simplebeauty/xendit-go"
+	"github.com/simplebeauty/xendit-go/utils/validator"
 )
 
 func initTesting(apiRequesterMockObj xendit.APIRequester) {

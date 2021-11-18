@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/xendit/xendit-go"
+	"github.com/simplebeauty/xendit-go"
 )
 
 func TestAPIInit(t *testing.T) {

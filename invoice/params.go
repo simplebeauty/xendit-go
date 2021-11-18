@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/xendit/xendit-go/utils/urlvalues"
+	"github.com/simplebeauty/xendit-go/utils/urlvalues"
 )
 
 // CreateParams contains parameters for Create

@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/card"
+	"github.com/simplebeauty/xendit-go"
+	"github.com/simplebeauty/xendit-go/card"
 )
 
 // To run this example, create the token first in https://js.xendit.co/test_tokenize.html

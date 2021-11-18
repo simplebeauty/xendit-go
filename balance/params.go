@@ -3,7 +3,7 @@ package balance
 import (
 	"net/url"
 
-	"github.com/xendit/xendit-go"
+	"github.com/simplebeauty/xendit-go"
 )
 
 // GetParams contains parameters for Get

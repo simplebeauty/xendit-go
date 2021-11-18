@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/directdebit/linkedaccount"
+	"github.com/simplebeauty/xendit-go"
+	"github.com/simplebeauty/xendit-go/directdebit/linkedaccount"
 )
 
 func ExampleInitializeLinkedAccountTokenization() {

@@ -1,7 +1,7 @@
 package linkedaccount
 
 import (
-	"github.com/xendit/xendit-go"
+	"github.com/simplebeauty/xendit-go"
 )
 
 // InitializeLinkedAccountTokenizationParams contains parameters for InitializeLinkedAccountTokenization

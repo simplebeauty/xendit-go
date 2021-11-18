@@ -3,7 +3,7 @@ package cardlesscredit
 import (
 	"context"
 
-	"github.com/xendit/xendit-go"
+	"github.com/simplebeauty/xendit-go"
 )
 
 // CreatePayment creates new payment

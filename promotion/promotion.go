@@ -3,7 +3,7 @@ package promotion
 import (
 	"context"
 
-	"github.com/xendit/xendit-go"
+	"github.com/simplebeauty/xendit-go"
 )
 
 // CreatePromotion creates new promotion.

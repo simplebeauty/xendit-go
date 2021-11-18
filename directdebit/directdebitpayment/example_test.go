@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/directdebit/directdebitpayment"
+	"github.com/simplebeauty/xendit-go"
+	"github.com/simplebeauty/xendit-go/directdebit/directdebitpayment"
 )
 
 func ExampleCreateDirectDebitPayment() {

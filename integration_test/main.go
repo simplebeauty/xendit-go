@@ -4,7 +4,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/xendit/xendit-go"
+	"github.com/simplebeauty/xendit-go"
 )
 
 func main() {

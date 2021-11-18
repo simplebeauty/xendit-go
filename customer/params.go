@@ -3,7 +3,7 @@ package customer
 import (
 	"net/url"
 
-	"github.com/xendit/xendit-go"
+	"github.com/simplebeauty/xendit-go"
 )
 
 // CreateCustomerParams contains parameters for CreateCustomer
